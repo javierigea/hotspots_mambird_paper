@@ -1,4 +1,4 @@
-R code for the manuscript "Multiple macroevolutionary routes to becoming a biodiversity hotspot " by Javier Igea and Andrew J. Tanentzap. 
+R code for the manuscript "Multiple macroevolutionary routes to becoming a biodiversity hotspot " by Javier Igea and Andrew J. Tanentzap.(http://advances.sciencemag.org/content/5/2/eaau8067) 
 
 This repository contains the scripts and the raw data required to perform the analyses and generate crude versions of the plots in the manuscript.
 
